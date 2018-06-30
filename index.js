@@ -12,8 +12,4 @@ function iterate(callback) {
   return internal;
 }
 
-function doToArray(array, callback) {
-  array.forEach((element) {
-    callback(element);
-  }
-}
+
