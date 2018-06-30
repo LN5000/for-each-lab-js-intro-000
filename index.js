@@ -11,5 +11,3 @@ function iterate(callback) {
   callback(internal);
   return internal;
 }
-
-
