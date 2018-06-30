@@ -3,5 +3,3 @@ function iterativeLog(array) {
       console.log(`${array.indexOf(element)}: ${element}`);
   });
 }
-
-
